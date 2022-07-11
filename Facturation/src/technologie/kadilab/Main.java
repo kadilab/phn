@@ -12,7 +12,8 @@ public class Main {
 //	BUTANDA SHUPA LAETITIA
 //	NGALULA MUKENGE JUDITH
 //	NAWEJ MBAZ TISHIQUE
-//	NGOIE LUBABA AMELIA	
+//	NGOIE LUBABA AMELIA
+//      PAMBA KAHETE JEREMIE	
 	public static void main(String[] args) {
 		Date dm = new Date();			
 		Adresse ad1 = new Adresse("des princes", "25", "cellule B", "kalubwe", "lubumbashi", "lubumbashi", "RDC");
